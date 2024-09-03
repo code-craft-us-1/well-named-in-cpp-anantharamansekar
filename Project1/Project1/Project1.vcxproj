@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\ColorDefs.h" />
     <ClInclude Include="..\..\ColorPair.h" />
+    <ClInclude Include="..\..\Globals.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
